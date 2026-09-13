@@ -9,7 +9,6 @@ Created for **learning, revision, and teaching cybersecurity** in simple languag
 * Cybersecurity Fundamentals
 * Linux Commands
 * Networking
-* Bash Scripting
 * VAPT
 * Web Security
 * SOC & Blue Team
@@ -21,3 +20,7 @@ More topics will be added as I learn.
 ---
 
 **Learn → Practice → Understand → Teach**
+
+## Related
+
+- [BashScriptingNotes](https://github.com/bhavyasehgall/BashScriptingNotes) — Bash scripting notes and practical examples.
